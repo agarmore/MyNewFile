@@ -20,6 +20,8 @@ class Assign6
 			
 		}
 		System.out.println("Sum of given No:"+sum);
+		System.out.print("Sum of given No:"+sum);
+
 
 	}
 } 
